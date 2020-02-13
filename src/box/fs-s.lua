@@ -1,0 +1,4 @@
+-- CraftBox
+-- A sandboxed microkernel for OpenComputers
+-- (C) Saghetti 2020
+-- fs-s.lua: The filesystem server for CraftBox
