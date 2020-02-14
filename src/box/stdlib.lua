@@ -1,6 +1,7 @@
 -- CraftBox
 -- A sandboxed microkernel for OpenComputers
 -- (C) Saghetti 2020
+-- This software is licensed under the MIT license
 -- stdlib.lua: The standard library for CraftBox programs
 
 local stdlib = {}

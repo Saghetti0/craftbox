@@ -1,6 +1,7 @@
 -- CraftBox
 -- A sandboxed microkernel for OpenComputers
 -- (C) Saghetti 2020
+-- This software is licensed under the MIT license
 -- init.lua: script used to boot the system
 
 do

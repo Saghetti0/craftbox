@@ -1,4 +1,5 @@
 -- CraftBox
 -- A sandboxed microkernel for OpenComputers
 -- (C) Saghetti 2020
+-- This software is licensed under the MIT license
 -- fs-s.lua: The filesystem server for CraftBox

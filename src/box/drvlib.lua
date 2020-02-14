@@ -1,6 +1,7 @@
 -- CraftBox
 -- A sandboxed microkernel for OpenComputers
 -- (C) Saghetti 2020
+-- This software is licensed under the MIT license
 -- stdlib.lua: A library for CraftBox drivers that require more permissions
 
 local drvlib = {}
